@@ -1,0 +1,158 @@
+@font-face
+{
+	font-family: 'Open Sans';
+	src: url('OpenSans-Regular.ttf');
+}
+
+body{
+	font-family: 'Open Sans' !important;
+}
+.navbar-brand {
+    float: left;
+    font-size: 28px;
+    height: 46px;
+    line-height: 18px;
+    padding: 13px;
+}
+/*  large font */
+/* 
+.sidebar .sidebar-menu > li > a {
+    display: block;
+    font-size: 18px;
+    padding: 12px 5px 12px 15px;
+}
+.sidebar .sidebar-menu .treeview-menu > li > a {
+    display: block;
+    font-size: 18px;
+    margin: 0;
+    padding: 5px 5px 5px 15px;
+}
+.nav-tabs > li > a {
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    font-size: 17px;
+    line-height: 1.42857;
+    margin-right: 2px;
+} */
+/* large font  */
+.user-panel > .image > img {
+    height: 115px;
+    text-align: center;
+    width: 133px;
+}
+.bg_red{
+	background:#aa1616 !important;
+}
+#red .navbar {
+    background-color: #3d9970  !important;}
+#red .navbar-brand {
+	color:#fff !important;
+}
+#red .bg-light-blue {
+    background-color: #F56954 !important;
+}
+#green .navbar {
+    background-color: #F4E255  !important;
+}
+#green .bg-light-blue {
+    background-color: #F4E255  !important;
+}
+#green .bg-light-blue  p{
+	color:#000 !important;
+}
+#green .navbar-brand {
+	color:#000 !important;
+}
+#green > .header .navbar .nav > li.user > a {
+   color:#000 !important;
+}
+.skin-blue .navbar {
+    background-color: #3c8dbc  !important;
+}
+.right{
+	text-align:right !important; 
+}
+.enrol_content{
+	min-height:500px !important;
+}
+.center{
+	text-align:center !important;
+}
+.sidebar-menu .selected_menu a{
+	background:#f49842;
+	color:#fff !important;
+}
+.sidebar-menu .selected_menu a:hover{
+	background:#f49842 !important;
+	color:#fff !important;
+}
+.panel-heading{
+	background:#f49842 !important;
+	color:#fff !important;
+}
+.panel-heading h3{
+	font-weight:bold !important;
+}
+.student_photo{
+	height:244px;
+	width:220px;
+}
+.profile_chart{
+	width		: 100%;
+	height		: 500px;
+	font-size	: 11px;
+}
+#chartdiv {
+	width		: 100%;
+	height		: 500px;
+	font-size	: 11px;
+}
+.chartdiv a{
+	 display:none !important; 
+}
+.chart a{
+	display:none !important;
+} 
+#chartdiv a {
+ 	 display:none !important; 
+}
+.bg_grey1{
+	background:#EAEAEC !important;
+}
+.hr{
+	margin:5px;
+}
+.navbar-brand{
+	color:#fff !important;
+}
+
+
+
+
+
+
+.button-login{
+	border-radius:300px !important;
+}
+body.login{
+    background: url(../img/dmlmhs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body > .header .navbar .nav > li.user > a {
+	color:white !important;
+}
+.navbar-theme{
+	background-color:#3d9970 !important;    
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus { 
+background-color:#3d9970 !important;
+}
+.nav.nav-pills > li.active > a, .nav.nav-pills > li.active > a:hover {
+	background-color:#3d9970 !important;    
+	border-top:none !important;
+	color:#fff;
+	border-radius:40px;
+	
+}
